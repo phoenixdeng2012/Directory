@@ -4,7 +4,7 @@ This repository organise links to past projects.
 
 - [Youtube Comments Spam Filter](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/tree/master/spam_filter_proj)
 - [Mobile Games A/B Testing with Cookie Cats](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/tree/master/Mobile%20Games%20A/B%20Testing%20with%20Cookie%20Cats)
-- [Yelp Review Sentiment Analysis using Deep Learning](https://github.com/phoenixdeng2012/Yelp_Review_Sentiment_Analysis)
+- [Yelp Review Sentiment Analysis using LSTM and Word2Vec](https://github.com/phoenixdeng2012/Yelp_Review_Sentiment_Analysis)
 - [Classify Song Genre](https://github.com/phoenixdeng2012/ProjectsForFun/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
 - [Movie Recommender System](https://github.com/phoenixdeng2012/Recommender_System)
 - [Face Recognition](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/CNN/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
