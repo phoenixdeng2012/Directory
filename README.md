@@ -2,8 +2,8 @@
 
 This repository organise links to past projects.
 
+- [Yelp Review Sentiment Analysis using LSTM](https://github.com/phoenixdeng2012/Yelp_Review_Sentiment_Analysis)
 - [Youtube Comments Spam Filter](https://github.com/phoenixdeng2012/Springboard-DataScience-Bootcamp/tree/master/spam_filter_proj)
-- [Yelp Review Sentiment Analysis using LSTM and Word2Vec](https://github.com/phoenixdeng2012/Yelp_Review_Sentiment_Analysis)
 - [Movie Recommender System](https://github.com/phoenixdeng2012/Recommender_System)
 - [Face Recognition](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/CNN/week4/Face%20Recognition/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 - [Art Generation with Neural Style Transfer](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/CNN/week4/Neural%20Style%20Transfer/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
