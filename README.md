@@ -10,4 +10,4 @@ This repository organise links to past projects.
 - [Improvise a Jazz Solo with an LSTM Network](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week1/Jazz%20improvisation%20with%20LSTM/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v3.ipynb)
 - [Neural machine translation with attention](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week3/Machine%20Translation/Neural%20machine%20translation%20with%20attention%20-%20v4.ipynb)
 - [Trigger Word Detection](https://github.com/phoenixdeng2012/deep-learning-coursera/blob/master/RNN/week3/Trigger%20word%20detection/Trigger%20word%20detection%20-%20v1.ipynb)
-- [Classify Song Genre](https://github.com/phoenixdeng2012/ProjectsForFun/blob/master/Classify%20Song%20Genres%20from%20Audio%20Data/notebook.ipynb)
+
